@@ -15,6 +15,7 @@
 .footer-texto {
     font-size: 1.5rem;
     line-height: 1.33;
+    color: #f2f2f2
 }
 
 .footer-contato li {
@@ -41,7 +42,7 @@
         gap: 40px;
     }
 
-    footer-contato li {
+    .footer-contato li {
         font-size: 1.5rem;
     }
 }
